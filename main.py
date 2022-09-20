@@ -1,1 +1,5 @@
-#WRITE YOUR CODE IN THIS FILE
+def password():
+    return "granted"
+    if p = Knights19
+    else
+print("Thats not right")
