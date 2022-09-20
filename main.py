@@ -1,5 +1,6 @@
-def password():
-    return "granted"
-    if p = Knights19
-    else
-print("Thats not right")
+def password(p):
+    return "access granted"
+    if 
+        p = Knights19
+    else:
+        print("access denied")
